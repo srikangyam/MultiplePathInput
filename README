@@ -1,0 +1,20 @@
+INPUT FILES:
+
+input1.txt:
+Hello World
+Hi All
+Ola Everybody
+
+input2.txt:
+Bye World
+Sionara All
+Goodbye Everybody
+
+
+OUTPUT:
+FirstMap	Ola Everybody
+FirstMap	Hi All
+FirstMap	Hello World
+SecondMap	Goodbye Everybody
+SecondMap	Sionara All
+SecondMap	Bye World
